@@ -12,9 +12,9 @@ To apply foundational probability and statistics concepts to a real-world datase
 
 ## Files Included
 
-- 📄 `Assignment 1 - FDS (2).pdf`: Problem statement and guidelines
-- 📊 `EXCELFILEASSGINMENT.xlsx`: Excel solution with formulas and visualizations
-- 🐍 `purchase_analysis.py` or `purchase_analysis.ipynb`: Python code for analysis and visualization
+- `Assignment 1 - FDS (2).pdf`: Problem statement and guidelines
+- `Customer_data_project.xlsx`: Excel solution with formulas and visualizations
+- `python_customer_data_analysis`: Python code for analysis and visualization
 
 ## Concepts Applied
 
